@@ -1,3 +1,5 @@
+//Demonstration of classes in C++
+
 #include<iostream>
 using namespace std;
 class addition
