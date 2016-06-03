@@ -1,3 +1,5 @@
+//Code to check if a equation is quadratic. Using C
+
 #include<stdio.h>
 #include<math.h>
 void main()
