@@ -1,3 +1,5 @@
+//Demonstartion of array in C
+
 #include<stdio.h>
 void main()
 {
