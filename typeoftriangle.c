@@ -1,3 +1,5 @@
+//Check the type of triangle using C
+
 #include<stdio.h>
 void main()
 {
