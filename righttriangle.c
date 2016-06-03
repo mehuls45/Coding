@@ -1,3 +1,5 @@
+//Code to check if the given triangle is a right angled triangle
+
 #include<stdio.h>
 void main()
 {
