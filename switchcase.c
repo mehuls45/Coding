@@ -1,3 +1,5 @@
+//Read the inputed number in words. Using C
+
 #include<stdio.h>
 void main()
 {
