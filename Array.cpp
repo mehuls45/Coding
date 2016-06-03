@@ -1,3 +1,5 @@
+//Searches for a number at "n"th location.
+
 #include<iostream>
 using namespace std;
 int main()
