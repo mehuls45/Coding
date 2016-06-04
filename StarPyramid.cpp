@@ -1,3 +1,5 @@
+//Code to print a pyramid of stars. Using C++.
+
 #include <iostream>
 
 using namespace std;
