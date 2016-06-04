@@ -1,3 +1,9 @@
+//Code to print out a real diamond. Using C++
+// eg.      *
+           * *
+           * *
+            *
+             
 #include <iostream>
 
 using namespace std;
