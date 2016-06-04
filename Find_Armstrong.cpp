@@ -1,3 +1,5 @@
+//Code to find armstong numbers in the given range. Using C++
+
 #include <iostream>
 
 using namespace std;
