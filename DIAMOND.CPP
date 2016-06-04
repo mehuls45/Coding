@@ -1,3 +1,5 @@
+//Code to print a diamond pattern by inputing number of rows. Using C
+
 #include<stdio.h>
 #include<conio.h>
 void main() {
