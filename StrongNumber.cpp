@@ -1,3 +1,7 @@
+//Definition of strong number:
+A number is called strong number if sum of the factorial of its digit is equal to number itself. For example: 145
+//Code to find if the inputed number is a strong number.
+
 #include <iostream>
 
 using namespace std;
