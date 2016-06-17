@@ -1,3 +1,5 @@
+//Convert lower case letters to upper case and vice-versa. Using C
+
 #include<stdio.h>
 
 void main(){
