@@ -1,3 +1,5 @@
+//Find biggest number among the numbers inputed in the array. Using C++
+
 #include <iostream>
 using namespace std;
 
