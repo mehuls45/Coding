@@ -1,3 +1,5 @@
+//Code for demonstaration of sort function in C++.
+
 #include<iostream>
 #include<algorithm>
 using namespace std;
